@@ -1,0 +1,6 @@
+
+
+class GameStatus:
+    INPROGRESSED='INPRGRESSED'
+    COMPLETED='COMPLETED'
+    DRAW='DRAW'
