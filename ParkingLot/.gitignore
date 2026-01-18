@@ -1,0 +1,6 @@
+# Create .gitignore file
+echo "__pycache__/" > .gitignore
+echo ".venv/" >> .gitignore
+echo ".idea/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "*.log" >> .gitignore
